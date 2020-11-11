@@ -18,7 +18,7 @@ My hobbies are art, jogging and reading and I like watching nature documentaries
 
 My student email address is of the form: first_name.last_name@helsinki.fi. 
 
-## Courses I've Taken
+## Some Courses I've Taken
 
 [DIGI-A Opiskelijan digitaidot - orientaatio](https://courses.helsinki.fi/fi/digi-000a/125336111), fall 2020
 
