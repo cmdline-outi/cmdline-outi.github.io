@@ -101,8 +101,8 @@ I learned about GitHub and what it's used for. I learned to set up a repositiory
 
 I also learned how to make branches (```git branch [branch name]```) and switch between them (```git checkout -b [branch name]```) as well as how to merge branches (```git merge [branch name]```).
 
-### Final project
+### Final assignment
 
-The final project of this course was to build this website and publish it on GitHub pages. I learned how to create a template repositiory and how to display webpage while editing by using ```bundle exec jekyll serve```. Now I know how to build a GitHub webpage.
+The final assignment of this course was to build this website and publish it on GitHub pages. I learned how to create a template repositiory and how to display webpage while editing by using ```bundle exec jekyll serve```. Now I know how to build a GitHub webpage.
 
 ![kuva](https://thumbs.dreamstime.com/z/mature-man-computer-smiling-20855484.jpg)
