@@ -12,11 +12,11 @@ My hobbies are art, jogging and reading. My favourite things to do on my free ti
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/cmdline-outi)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My student email address is of the form: first_name.last_name@helsinki.fi. 
 
 ## Courses I've Taken
 
