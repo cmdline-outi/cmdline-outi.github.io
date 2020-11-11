@@ -20,11 +20,14 @@ My student email address is of the form: first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[DIGI-A Opiskelijan digitaidot - orientaatio](https://courses.helsinki.fi/fi/digi-000a/125336111), fall 2020
 
 [Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
 
 ## Projects
+
+*[cmdline-course GitHub project](https://github.com/cmdline-outi/cmdline-course)*
+Description: A GitHub repository - a project that was part Week 7's homework on "Command line tools for for linguists" course.
 
 ## Misc. 
 
