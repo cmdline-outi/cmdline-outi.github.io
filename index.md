@@ -4,11 +4,11 @@ layout: default
 
 ## Introduction
 
-Hi, my name is Outi. I do not want to add my surname here since this webpage is publicly available for everyone on the internet to view so I replaced it with "CmdlineC" - I hope that is okay.
+Hi, my name is Outi. I do not want to add my surname here since this webpage is publicly available for everyone on the internet to view. I replaced my surname  with "CmdlineC" - I hope that is okay.
 
-My major at university is linguistics. I'm focusing on general linguistics, not on language technology, but I thought that this command line course could still be useful for me. My minor is East Asian studies.
+My major at university is linguistics. I'm focusing on general linguistics and not on language technology but I thought that this command line course could still be useful for me. My minor is East Asian studies.
 
-My hobbies are art, jogging and reading. My favourite thing to do on my free time are drawing and painting so I spent a lot of time creating art. I am very interested in Japanese culture and language and I also enjoy learning languages in general.
+My hobbies are art, jogging and reading. My favourite things to do on my free time are drawing and painting so I spend a lot of time creating art. I am very interested in the Japanese culture and language and I also enjoy learning languages in general.
 
 ## Find me on
 
