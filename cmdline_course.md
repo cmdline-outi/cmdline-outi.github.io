@@ -81,8 +81,9 @@ I learned how to become a root user to install programs using the command ```sud
 
 A code
 
-```animals.gz: lion fish
-       gzip $@ $^```
+animals.gz: lion fish
+
+       gzip $@ $^
 
 will make a gzip-archive animals.gz that contains both files "lion" and "fish"
 
