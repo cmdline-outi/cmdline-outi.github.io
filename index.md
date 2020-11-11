@@ -4,7 +4,11 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi, my name is Outi. I do not want to add my surname here since this webpage is publicly available for everyone on the internet to view so I replaced it with "CmdlineC" - I hope that is okay.
+
+My major at university is linguistics. I'm focusing on general linguistics, not on language technology, but I thought that this command line course could still be useful for me. My minor is East Asian studies.
+
+My hobbies are art, jogging and reading. My favourite thing to do on my free time are drawing and painting so I spent a lot of time creating art. I am very interested in Japanese culture and language and I also enjoy learning languages in general.
 
 ## Find me on
 
