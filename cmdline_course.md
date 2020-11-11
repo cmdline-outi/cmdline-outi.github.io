@@ -99,7 +99,7 @@ I learned about GitHub and what it's used for. I learned to set up a repositiory
 
 ```git commit -m "Edited cmdline_course.md"```
 
-I also learned how to make branches (git branch [branch name]) and switch between them (git checkout -b [branch name]) as well as how to merge branches (git merge [branch name]).
+I also learned how to make branches (```git branch [branch name]```) and switch between them (```git checkout -b [branch name]```) as well as how to merge branches (```git merge [branch name]```).
 
 ### Final project
 
