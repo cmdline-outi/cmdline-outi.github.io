@@ -26,7 +26,7 @@ My student email address is of the form: first_name.last_name@helsinki.fi.
 
 ## Projects
 
-*[cmdline-course GitHub project](https://github.com/cmdline-outi/cmdline-course)*
+**[cmdline-course GitHub project](https://github.com/cmdline-outi/cmdline-course)**
 Description: A GitHub repository - a project that was part Week 7's homework on "Command line tools for for linguists" course.
 
 ## Misc. 
