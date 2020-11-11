@@ -38,6 +38,10 @@ My student email address is of the form: first_name.last_name@helsinki.fi.
 
 Description: A GitHub repository - a project that was Week 7's homework on "Command line tools for for linguists" course.
 
+## CV
+
+Click [here](https://www.overleaf.com/read/qndrvbrbtpdn) to view my CV.
+
 ## Misc. 
 
 [A Song to Dance to :)](https://youtu.be/ScSW9C3DF18)
